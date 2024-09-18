@@ -1,5 +1,9 @@
 public class testing{
 public static void main(String args[]){
 
+  void method by m2(){
+Sysout("Are you mad");
+}
+
 
 }}
